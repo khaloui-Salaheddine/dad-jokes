@@ -1,6 +1,6 @@
 # Dad Jokes 
 
-![cover](./assets/joke.gif)
+![cover](./assets/image.gif)
 
 ## 🦉 Main information
 
